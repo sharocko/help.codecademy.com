@@ -1,5 +1,6 @@
 ---
 title: How do I delete my account?
+article_id: '1394081'
 ---
 If you can't get into your account, [reset your password](http://www.codecademy.com/secret/new).
 
