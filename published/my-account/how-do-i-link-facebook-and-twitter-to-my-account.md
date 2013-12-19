@@ -1,5 +1,6 @@
 ---
 title: How do I link Facebook and Twitter to my account?
+article_id: '1397049'
 ---
 To connect profiles:
 
