@@ -1,5 +1,6 @@
 ---
 title: Can I reset my course progress?
+article_id: '1397046'
 ---
 While you can reset your code within individual exercises by pressing the **Reset Code** button, there is no way to reset all of your courses at once.
 
