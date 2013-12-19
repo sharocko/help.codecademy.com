@@ -1,5 +1,6 @@
 ---
 title: How do I change my email address?
+article_id: '1397047'
 ---
 To update your email address:
 
