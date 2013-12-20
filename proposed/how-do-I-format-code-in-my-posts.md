@@ -30,7 +30,7 @@ To indicate a code *block*, either (1) wrap the entire block in three (3) backti
 ```
 </pre>
 
-Or, (2) you can indent the code with three (4) spaces:
+Or, (2) you can indent the code with four (4) spaces:
 
 ```
     <!DOCTYPE html>
