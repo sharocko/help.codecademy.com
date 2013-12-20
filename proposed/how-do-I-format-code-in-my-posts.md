@@ -42,4 +42,16 @@ Or, (2) you can indent the code with three (4) spaces:
     </html>
 ```
 
+Both would produce:
+
+```
+&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+    &lt;head&gt;
+    &lt;/head&gt;
+    &lt;body&gt;
+    &lt;/body&gt;
+&lt;/html&gt;
+```
+
 For more information on Markdown Formatting, visit [daringfireball.net](http://daringfireball.net/projects/markdown/syntax).
