@@ -20,13 +20,13 @@ To indicate a code *block*, either (1) wrap the entire block in three (3) backti
 
 <pre>
 ```
-<!DOCTYPE html>
-<html>
-	<head>
-    </head>
-    <body>
-    </body>
-</html>
+&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+	&lt;head&gt;
+    &lt;/head&gt;
+    &lt;body&gt;
+    &lt;/body&gt;
+&lt;/html&gt;
 ```
 </pre>
 
