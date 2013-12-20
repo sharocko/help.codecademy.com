@@ -18,7 +18,8 @@ How do I use the `console.log()` function?
 ###Code Blocks
 To indicate a code *block*, either (1) wrap the entire block in three (3) backticks:
 
-``````
+<pre>
+```
 <!DOCTYPE html>
 <html>
 	<head>
@@ -26,17 +27,18 @@ To indicate a code *block*, either (1) wrap the entire block in three (3) backti
     <body>
     </body>
 </html>
-``````
+```
+</pre>
 
 Or, (2) you can indent the code with three (3) spaces:
 
 ```
    <!DOCTYPE html>
    <html>
-   	<head>
-   	</head>
-   	<body>
-   	</body>
+      <head>
+      </head>
+      <body>
+      </body>
    </html>
 ```
 
