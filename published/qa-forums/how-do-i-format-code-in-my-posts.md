@@ -6,6 +6,7 @@ article_id: '1398822'
 Forum/Group posts are parsed with [limited Markdown](http://daringfireball.net/projects/markdown/). Markdown enables easy formatting of code in posts. 
 
 ###Code Spans
+
 To indicate a span of code, wrap it in backticks (\`). For example:
 
 ```
@@ -17,6 +18,7 @@ would produce:
 How do I use the `console.log()` function?
 
 ###Code Blocks
+
 To indicate a code *block*, either (1) wrap the entire block in three (3) backticks:
 
 <pre>
@@ -46,13 +48,13 @@ Or, (2) you can indent the code with four (4) spaces:
 Both would produce:
 
 ```
-&lt;!DOCTYPE html&gt;
-&lt;html&gt;
-    &lt;head&gt;
-    &lt;/head&gt;
-    &lt;body&gt;
-    &lt;/body&gt;
-&lt;/html&gt;
+<!DOCTYPE html&gt;
+<html>
+    <head>;
+    </head>;
+    <body>;
+    </body>;
+</html>;
 ```
 
 For more information on Markdown Formatting, visit [daringfireball.net](http://daringfireball.net/projects/markdown/syntax).
