@@ -1,3 +1,7 @@
+---
+title: Alternatives to CodeCademy
+---
+
 ## 1. Introduction
 
 A great man once wrote:
