@@ -18,8 +18,7 @@ How do I use the `console.log()` function?
 ###Code Blocks
 To indicate a code *block*, either (1) wrap the entire block in three (3) backticks:
 
-```
-```
+``````
 <!DOCTYPE html>
 <html>
 	<head>
