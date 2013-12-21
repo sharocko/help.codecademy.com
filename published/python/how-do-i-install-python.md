@@ -1,5 +1,6 @@
 ---
 title: How do I install Python on my computer?
+article_id: '1399161'
 ---
 There are two versions of Python available. Please follow the instructions based on the version of Python you want. Codecademy uses Python 2.7.x.
 
