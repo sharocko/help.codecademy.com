@@ -1,7 +1,7 @@
 ---
 title: How do I install Python on my computer?
 ---
-There are two versions of Python availabe. Please follow the instructions based on the version of Python you want. Codecademy uses Python 2.7.x.
+There are two versions of Python available. Please follow the instructions based on the version of Python you want. Codecademy uses Python 2.7.x.
 
 ### Windows
 Python 2 or 3:
@@ -20,12 +20,14 @@ Python 2 or 3 via installer:
   3. Run the setup and follow all on screen instructions
 
 Python 2 via [Homebrew][2] (recommended):
+
 ```
 >> brew update
 >> brew install python
 ``` 
 
 Python 3 via [Homebrew][2]:
+
 ```
 >> brew update
 >> brew install python3
@@ -40,6 +42,7 @@ Python 2 or 3 via installer:
   3. Run the setup and follow all on screen instructions
 
 In the terminal (replace x.x.x with the version of Python you want to install):
+
 ```
 >> sudo apt-get install build-essential
 >> sudo apt-get install libreadline-gplv2-dev libncursesw5-dev libssl-dev libsqlite3-dev tk-dev libgdbm-dev libc6-dev libbz2-dev
@@ -50,11 +53,15 @@ In the terminal (replace x.x.x with the version of Python you want to install):
 >> ./configure
 >> make
 ```
+
 If you want this version of Python as the non-default version:
+
 ```
 >> sudo make altinstall
 ```
+
 If you want this version of Python as the default version:
+
 ```
 >> sudo make install
 ```
