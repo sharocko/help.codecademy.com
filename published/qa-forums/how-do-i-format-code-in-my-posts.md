@@ -47,7 +47,7 @@ Or, (2) you can indent the code with four (4) spaces:
 
 Both would produce:
 
-```
+```html
 <!DOCTYPE html>
 <html>
     <head>
