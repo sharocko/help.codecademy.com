@@ -14,6 +14,7 @@ There is a [set of basic guidelines](http://www.codecademy.com/docs/forum_guidel
 
 Look for pinned guidelines like these in your group:
 
-img/what-should-i-post-in-groups-read-first-01.png
-img/what-should-i-post-in-groups-read-first-02.png
-img/what-should-i-post-in-groups-read-first-03.png
+![guidelines image 01](/img/what-should-i-post-in-groups-read-first-01.png)
+![guidelines image 02](/img/what-should-i-post-in-groups-read-first-02.png)
+![guidelines image 02](/img/what-should-i-post-in-groups-read-first-03.png)
+
