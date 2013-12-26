@@ -8,4 +8,4 @@ To see a list of existing discussions click on the **Discussions** tab.
 
 To get started posting, click on the **Start a Discussion** button that is located on the **Discussions** page. 
 
-To see all of the groups that you can join you can [Browse Groups](http://www.codecademy.com/groups). 
+To see all of the groups that you can join you can [browse Groups](http://www.codecademy.com/groups). 
