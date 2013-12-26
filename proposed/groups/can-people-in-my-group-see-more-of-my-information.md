@@ -6,4 +6,4 @@ Other people in your group will be able to see any information that you have inc
 
 To see and edit your account settings:
 
-  Go to **Me** > **Edit account settings**
+- Go to **Me** > **Edit account settings**
