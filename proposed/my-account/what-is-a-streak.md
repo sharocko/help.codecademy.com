@@ -8,7 +8,7 @@ It helps to practice regularly when learning any new skill, even programming. Yo
 
 If you are competitive you can compare streaks with your friends or you can work on setting personal bests. To help make it a habit, set a time in your schedule to code - like every day at lunch or over coffee or before you play your games or watch television.
 
-Your streak will reset at midnight local time if you don't complete an exercise at any point during the day. Don't worry, it's not the end of the world, your streak is just a tool in your codeing adventure.
+Your streak will reset at midnight local time if you don't complete an exercise at any point during the day. Don't worry, it's not the end of the world, your streak is just a tool in your coding adventure.
 
 Streak badges: 
 
