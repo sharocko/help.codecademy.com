@@ -1,5 +1,5 @@
 ---
-title: How are groups different from Q&A forums?
+title: How are groups different from Q&A Forums?
 article_id: '1401370'
 ---
 
