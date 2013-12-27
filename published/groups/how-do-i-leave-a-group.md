@@ -7,4 +7,4 @@ To leave a group, go to the group's **About** tab. Hover your mouse over the **M
 
 That's all there is to it! 
 
-To see all of the groups that you can join you can [Browse Groups](http://www.codecademy.com/groups). 
+To see all of the groups that you can join you can [browse Groups](http://www.codecademy.com/groups). 
