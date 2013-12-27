@@ -1,5 +1,6 @@
 ---
 title: How do I leave a group?
+article_id: '1401554'
 ---
 
 To leave a group, go to the group's **About** tab. Hover your mouse over the **Member (leave?)** button. It will change to say **Leave Group**. Click on that button and the button will change to say **Join Group**. 
