@@ -1,5 +1,6 @@
 ---
 title: How many groups should I join?
+article_id: '1401555'
 ---
 
 There is no specific number of groups that you should join. 
