@@ -2,7 +2,7 @@
 title: Where can I find a reference for a programming language's syntax?
 ---
 
-Every language has its own API (Application Programming Interface) where it defines all its tooling and library features. Glossaires highlight the most common features and syntaxes for a language's API. They can serve as a useful guide when studying new languages or a handy reference when trying to remember tricky syntax.
+Every language has its own API (Application Programming Interface) where it defines all its tooling and library features. Glossaries highlight the most common features and syntaxes for a language's API. They can serve as a useful guide when studying new languages or a handy reference when trying to remember tricky syntax.
 
 Codecademy has glossaries for the following languages:
  
