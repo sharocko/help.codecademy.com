@@ -12,6 +12,6 @@ Your streak will reset at midnight local time if you don't complete an exercise 
 
 Streak badges: 
 
-![10 day streak badge](/img/what-is-a-streak-badge-10-day.png)
-![100 day streak badge](/img/what-is-a-streak-badge-100-day.png)
-![300 day streak badge](/img/what-is-a-streak-badge-300-day.png)
+![10 day streak badge](/_assets/_img/what-is-a-streak-01.png)
+![100 day streak badge](/_assets/_img/what-is-a-streak-02.png)
+![300 day streak badge](/_assets/_img/what-is-a-streak-03.png)
