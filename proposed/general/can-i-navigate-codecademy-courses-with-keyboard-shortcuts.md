@@ -12,6 +12,10 @@ Yes. Here are the available shortcuts.
     </thead>
     <tbody>
         <tr>
+            <td><strong>Ctrl + Enter</strong><br>Mac: <strong>Cmd + Enter</strong></td>
+            <td>Submits the code in an exercise.</td>
+        </tr>
+        <tr>
             <td><strong>Alt + R</strong><br>Mac: <strong>Opt + R</strong></td>
             <td>Resets the code in an exercise to its original state.</td>
         </tr>
