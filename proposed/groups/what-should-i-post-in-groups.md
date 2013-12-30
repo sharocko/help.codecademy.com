@@ -2,7 +2,7 @@
 title: What should I post in a group?
 ---
 
-Each group is different, and as a result, they have different discussion rules and purposes. The guildelines for the group you are viewing can be found posted and pinned in its discussion pane.
+Each group is different, and as a result, they have different discussion rules and purposes. The guidelines for the group you are viewing can be found posted and pinned in its discussion pane.
 
 While keeping within the group's guidelines, you should post anything that encourages the group! That could mean language resources and articles or suggestions and helpful tips. 
 
