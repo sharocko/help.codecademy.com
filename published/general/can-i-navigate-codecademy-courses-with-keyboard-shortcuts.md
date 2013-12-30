@@ -1,5 +1,6 @@
 ---
 title: Can I navigate Codecademy courses with keyboard shortcuts?
+article_id: '1402980'
 ---
 Yes. Here are the available shortcuts.
 
