@@ -1,5 +1,6 @@
 ---
 title: What is a streak?
+article_id: '1404626'
 ---
 
 Your streak is the number of days in a row that you have completed an exercise on Codecademy.
