@@ -16,7 +16,7 @@ Open a command prompt or terminal and type `python`. The interpreter should star
 #### Creating and running script files
 To create a script file and run it, follow these steps:
 
-  1. Open a text editor of your choice (except for Microsoft Office Word). 
+  1. Open a [text editor][3] of your choice (Microsoft Word is not a text editor). 
   2. Write your script.
   3. Save your script with a `.py` extension.
   4. Open up a terminal or command prompt and locate your script.
@@ -28,3 +28,4 @@ To create a script file and run it, follow these steps:
 
   [1]: http://labs.codecademy.com/
   [2]: http://help.codecademy.com/customer/portal/articles/1399161-how-do-i-install-python-on-my-computer-
+  [3]: http://en.wikipedia.org/wiki/Text_editor
