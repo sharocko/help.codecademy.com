@@ -12,6 +12,6 @@ Your streak will reset at midnight local time if you don't complete an exercise 
 
 Streak badges: 
 
-![10 day streak badge](/_assets/_img/what-is-a-streak-01.png)
-![100 day streak badge](/_assets/_img/what-is-a-streak-02.png)
-![300 day streak badge](/_assets/_img/what-is-a-streak-03.png)
+![10 day streak badge](https://raw.github.com/RyzacInc/help.codecademy.com/master/published/_assets/_img/what-is-a-streak-01.png)
+![100 day streak badge](https://raw.github.com/RyzacInc/help.codecademy.com/master/published/_assets/_img/what-is-a-streak-02.png)
+![300 day streak badge](https://raw.github.com/RyzacInc/help.codecademy.com/master/published/_assets/_img/what-is-a-streak-03.png)
