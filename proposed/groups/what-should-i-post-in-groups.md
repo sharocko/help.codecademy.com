@@ -14,9 +14,9 @@ There is a [set of basic guidelines](http://www.codecademy.com/docs/forum_guidel
 
 Look for pinned guidelines like these in your group:
 
-![guidelines image 01](/_assets/_img/what-should-i-post-in-groups-01.png)
+![guidelines image 01](https://raw.github.com/AlbionsRefuge/help.codecademy.com/what_should_i_post_in_groups/proposed/_assets/_img/what-should-i-post-in-groups-01.png)
 
-![guidelines image 02](/_assets/_img/what-should-i-post-in-groups-02.png)
+![guidelines image 02](https://raw.github.com/AlbionsRefuge/help.codecademy.com/what_should_i_post_in_groups/proposed/_assets/_img/what-should-i-post-in-groups-02.png)
 
-![guidelines image 02](/_assets/_img/what-should-i-post-in-groups-03.png)
+![guidelines image 02](https://raw.github.com/AlbionsRefuge/help.codecademy.com/what_should_i_post_in_groups/proposed/_assets/_img/what-should-i-post-in-groups-03.png)
 
