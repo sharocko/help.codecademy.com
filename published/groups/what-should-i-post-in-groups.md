@@ -1,5 +1,6 @@
 ---
 title: What should I post in a group?
+article_id: '1405681'
 ---
 
 Each group is different, and as a result, they have different discussion rules and purposes. The guidelines for the group you are viewing can be found posted and pinned in its discussion pane.
@@ -19,4 +20,3 @@ Look for pinned guidelines like these in your group:
 ![guidelines image 02](https://raw.github.com/RyzacInc/help.codecademy.com/master/published/_assets/_img/what-should-i-post-in-groups-02.png)
 
 ![guidelines image 03](https://raw.github.com/RyzacInc/help.codecademy.com/master/published/_assets/_img/what-should-i-post-in-groups-03.png)
-
