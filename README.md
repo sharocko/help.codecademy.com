@@ -19,7 +19,7 @@ Here's an overview of what each directory is for:
 
 ### published/
 
-These are the articles that show up on http://help.codecademy.com. These files are [Markdown](http://daringfireball.net/projects/markdown/basics) formatted text files and have YAML front-matter (see below).
+These are the articles that show up on http://help.codecademy.com. These files are [Markdown](http://daringfireball.net/projects/markdown/basics) formatted text files and have YAML front-matter (see below). All Codecademy help articles are parsed additionally with [GitHub Flavored Markdown (GFM)](https://help.github.com/articles/github-flavored-markdown).
 
 ### proposed/
 
