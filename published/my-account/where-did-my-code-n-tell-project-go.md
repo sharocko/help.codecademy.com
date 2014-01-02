@@ -2,9 +2,9 @@
 title: Where did my Code'n'Tell project go?
 article_id: '1398980'
 ---
-In mid-December 2013, we moved all Code'n'Tell code to our Projects feature. To find your project:
+In mid-December 2013, we moved all Code'n'Tell code to our Codebits feature. To find your codebit:
 
 1. Go to [your dashboard](http://www.codecademy.com/dashboard)
-2. Scroll down to **Projects you're building:**
+2. Scroll down to **Codebits you're building:**
 
-![Projects you're building](https://www.evernote.com/shard/s2/sh/ad7724dc-0441-4054-9721-50d0871786de/71dcce7a4ed476e5d5e04f1c4d9244af/deep/0/Codecademy.png)
+![Codebits you're building](https://raw.github.com/RyzacInc/help.codecademy.com/master/published/_assets/_img/where-did-my-code-n-tell-project-go.png)
