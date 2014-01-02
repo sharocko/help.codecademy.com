@@ -11,8 +11,8 @@ If you are competitive you can compare streaks with your friends or you can work
 
 Your streak will reset at midnight local time if you don't complete an exercise at any point during the day. Don't worry, it's not the end of the world, your streak is just a tool in your coding adventure.
 
-Streak badges: 
+#### Streak badges
 
-![10 day streak badge](https://raw.github.com/RyzacInc/help.codecademy.com/master/published/_assets/_img/what-is-a-streak-01.png)
-![100 day streak badge](https://raw.github.com/RyzacInc/help.codecademy.com/master/published/_assets/_img/what-is-a-streak-02.png)
-![300 day streak badge](https://raw.github.com/RyzacInc/help.codecademy.com/master/published/_assets/_img/what-is-a-streak-03.png)
+<img src="https://raw.github.com/RyzacInc/help.codecademy.com/master/published/_assets/_img/what-is-a-streak-01.png" alt="10 day streak badge">
+<img src="https://raw.github.com/RyzacInc/help.codecademy.com/master/published/_assets/_img/what-is-a-streak-02.png" alt="10 day streak badge">
+<img src="https://raw.github.com/RyzacInc/help.codecademy.com/master/published/_assets/_img/what-is-a-streak-03.png" alt="10 day streak badge">
