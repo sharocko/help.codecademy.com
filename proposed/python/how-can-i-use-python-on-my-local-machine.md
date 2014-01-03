@@ -18,7 +18,7 @@ To create a script file and run it, follow these steps:
   2. Write your script.
   3. Save your script with a `.py` extension.
   4. Open up a terminal or command prompt and locate your script.
-  5. Type `python <your-script>.py` (Python2) or `python3 <your-script.py` (Python3) to run your script.
+  5. Type `python <your-script>.py` (Python2) or `python3 <your-script>.py` (Python3) to run your script.
 
   - **Advantage**: Your code will be saved.
   - **Disadvantage**: You cannot see your code run live.
