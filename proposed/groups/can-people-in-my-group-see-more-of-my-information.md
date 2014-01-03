@@ -2,7 +2,7 @@
 title: Can people in my group see more of my information?
 ---
 
-Other people in your group will be able to see any information that you have included in your public profile.
+Your profile is [visible to other Codecademy users](http://help.codecademy.com/customer/portal/articles/1397045-can-i-make-my-account-private-). Therefore, the members of your group will be able to see any information that you have included in your profile.
 
 To see and edit your account settings:
 
