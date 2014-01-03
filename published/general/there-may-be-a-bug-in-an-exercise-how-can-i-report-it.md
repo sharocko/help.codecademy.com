@@ -1,5 +1,5 @@
 ---
-title: There may be a bug in an exercise — how can I report it?
+title: There may be a bug in an exercise. How can I report it?
 ---
 
 First of all, thank you for taking the time to help us improve Codecademy by reporting this bug. If you believe there is a problem with the instructions or in how the exercise checks your code with the submission correction test (SCT), please check the lesson's Q&A Forum to see if others are having similar issues. If your submission is correct but not running properly, let us know by contacting us through the [Codecademy Buggy Exercises](http://www.codecademy.com/groups/buggy-exercises) group. If you see a typo or formatting issue with the lesson's instructions, we would be happy to hear about that as well.
