@@ -28,5 +28,76 @@ Yes. Here are the available shortcuts.
             <td><strong>Alt + O</strong><br>Mac: <strong>Opt + O</strong></td>
             <td>Loads the previous exercise.</td>
         </tr>
-    </tbody>
+        <tr>
+        	<td><strong>Ctrl + /</strong></td>
+        	<td>toggle if line is commented.</td>
+        </tr>
+		<tr>
+			<td><strong>Ctrl +Shit + /</strong></td>
+			<td>comment out highlighted text. <br />Insert comment block if no text is selected.</td>
+		</tr>
+		<tr>
+			<td><strong>Ctrl + P</strong></td>
+			<td>Skip to end then beginning of current parenthesis.</td>
+		</tr>
+		<tr>
+			<td><strong>Ctrl + U</strong></td>
+			<td>current word or selection into ALLCAPS</td>
+		</tr>
+		<tr>
+			<td><strong>Ctrl + Shift + U</strong></td>
+			<td>Current word or selection into nocaps</td>
+		</tr>
+		<tr>
+			<td><strong>Ctrl + D</strong></td>
+			<td>Delete current line.</td>
+		</tr>
+		<tr>
+			<td><strong>Ctrl + shift + D</strong></td>
+			<td>Duplicate current line.</td>
+		</tr>
+		<tr>
+			<td><strong>Ctrl + K</strong></td>
+			<td>Reselect previous selection.</td>
+		</tr>
+		<tr>
+			<td><strong>Ctrl + L</strong></td>
+			<td>Goto line number (pops up dialogue).</td>
+		</tr>
+		<tr>
+			<td><strong>Ctrl + ]</strong></td>
+			<td>Indent current line</td>
+		</tr>
+		<tr>
+			<td><strong>Ctrl + [</strong></td>
+			<td>Deindent current line</td>
+		</tr>
+		<tr>
+			<td><strong>Alt + 0 </strong></td>
+			<td>Collapse all brackets</td>
+		</tr>
+		<tr>
+			<td><strong>Alt + L</strong></td>
+			<td>Collapse current parenthesis/brackets/quotes/etc.</td>
+		</tr>
+		<tr>
+			<td><strong>Alt + Up</strong></td>
+			<td>Move the current line up the page</td>
+		</tr>
+		<tr>
+			<td><strong>Alt + Down</strong>
+			</td><td> Move the current line down the page</td>
+		</tr>
+		<tr>
+			<td><strong>Alt + Left</strong></td>
+			<td>Move to left most extent of current (wordwrapped) line</td>
+		</tr>
+		<tr>
+			<td><strong>Alt + Right</strong></td>
+			<td>Move to (wordwrapped) right end of current line.</td>
+		</tr>
+		<tr>
+			<td><strong>Alt + Backspace</strong></td>
+			<td>Delete to the beginning of the current (wordwrapped) line</td>
+		</tr
 </table>
