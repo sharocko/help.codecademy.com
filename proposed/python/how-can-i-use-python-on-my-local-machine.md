@@ -16,7 +16,7 @@ To create a script file and run it, follow these steps:
 
   1. Open a [text editor][2] of your choice. Microsoft Word is not a text editor.
   2. Write your script.
-  3. Save your script with a `.py` extension.
+  3. Save your script as a plain text file with a `.py` extension.
   4. Open up a terminal or command prompt and locate your script.
   5. Type `python <your-script>.py` (Python2) or `python3 <your-script>.py` (Python3) to run your script.
 
