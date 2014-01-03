@@ -1,5 +1,6 @@
 ---
 title: Can I remove courses from my dashboard?
+article_id: '1405907'
 ---
 
 It's not possible to remove courses or tracks from your dashboard at this time. While several users have requested this feature, we don't have a timeline for it right now.
