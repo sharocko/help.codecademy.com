@@ -1,5 +1,6 @@
 ---
 title: How can I use Python on my local machine?
+article_id: '1406261'
 ---
 
 To use Python on your personal machine, you will need to start by [installing Python][1]. Once it is installed, you can either practice in the interpreter or practice by writing script files. See the appropriate section below for more details.
