@@ -43,7 +43,7 @@ Yes. Here are the available shortcuts.
             <td>Selects all text</td>
         </tr>
         <tr>
-            <td><strong>Mac Only</strong>
+            <td><em>Mac Only</strong>
                 <br>Mac: <strong>Ctrl + L</strong>
             </td>
             <td>Centers selection.</td>
@@ -227,7 +227,7 @@ Yes. Here are the available shortcuts.
             <td>Selects to bottom of current page</td>
         </tr>
         <tr>
-            <td><strong>Mac Only</strong>
+            <td><em>Mac Only</strong>
                 <br>Mac: <strong>Option + PageDown</strong>
             </td>
             <td>Scroll down one page</td>
@@ -244,7 +244,7 @@ Yes. Here are the available shortcuts.
             <td>Selects from current location to start of current page.</td>
         </tr>
         <tr>
-            <td><strong>Mac Only</strong>
+            <td><em>Mac Only</strong>
                 <br>Mac: <strong>Option + PageUp</strong>
             </td>
             <td>Scroll up one page</td>
@@ -256,13 +256,13 @@ Yes. Here are the available shortcuts.
         </tr>
         <tr>
             <td><strong>Ctrl + Up</strong>
-                <br>Mac: <strong>Mac not supported</strong>
+                <br>Mac: <em>Mac not supported</em>
             </td>
             <td>Scroll up</td>
         </tr>
         <tr>
             <td><strong>Ctrl + Down</strong>
-                <br>Mac: <strong>Mac note supported</strong>
+                <br>Mac: <em>Mac note supported</em>
             </td>
             <td>Scroll down</td>
         </tr>
@@ -284,7 +284,7 @@ Yes. Here are the available shortcuts.
         </tr>
         <tr>
             <td><strong>Ctrl + Shift + P</strong>
-                <br>Mac: <strong>Mac not supported</strong>
+                <br>Mac: <em>Mac not supported</em>
             </td>
             <td>Select to matching special character</td>
         </tr>
@@ -427,7 +427,7 @@ Yes. Here are the available shortcuts.
             <td>Block indent</td>
         </tr>
         <tr>
-            <td><strong>Mac Only</strong>
+            <td><em>Mac Only</strong>
                 <br>Mac: <strong>Ctrl + O</strong>
             </td>
             <td>Split current line</td>
