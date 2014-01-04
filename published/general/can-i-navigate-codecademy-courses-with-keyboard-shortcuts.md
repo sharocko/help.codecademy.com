@@ -13,7 +13,7 @@ Yes. Here are the available shortcuts.
     </thead>
     <tbody>
         <tr>
-            <td><code>CTRL</code> + <code>RETURN</code>
+            <td><code>CTRL</code> + <code>ENTER</code>
                 <br>Mac: <br><code>COMMAND</code> + <code>RETURN</code>
             </td>
             <td>Submits the code in an exercise.</td>
@@ -115,7 +115,6 @@ Yes. Here are the available shortcuts.
         </tr>
         <tr>
             <td><code>SHIFT</code> + <code>↑</code>
-                <br>Mac: <br><code>SHIFT</code> + <code>↑</code>
             </td>
             <td>Selects from current location to same location on preceeding line</td>
         </tr>
@@ -139,7 +138,6 @@ Yes. Here are the available shortcuts.
         </tr>
         <tr>
             <td><code>SHIFT</code> + <code>↓</code>
-                <br>Mac: <br><code>SHIFT</code> + <code>↓</code>
             </td>
             <td>Selects from current location to same location on following line.</td>
         </tr>
@@ -175,7 +173,6 @@ Yes. Here are the available shortcuts.
         </tr>
         <tr>
             <td><code>SHIFT</code> + <code>←</code>
-                <br>Mac: <br><code>SHIFT</code> + <code>←</code>
             </td>
             <td>Selects text to the left of the cursor</td>
         </tr>
@@ -211,7 +208,6 @@ Yes. Here are the available shortcuts.
         </tr>
         <tr>
             <td><code>SHIFT</code> + <code>→</code>
-                <br>Mac: <br><code>SHIFT</code> + <code>→</code>
             </td>
             <td>Select to the right</td>
         </tr>
@@ -403,26 +399,22 @@ Yes. Here are the available shortcuts.
             <td>Remove the word to the right</td>
         </tr>
         <tr>
-            <td><code>SHIFT</code> + <code>Tab</code>
-                <br>Mac: <br><code>SHIFT</code> + <code>Tab</code>
+            <td><code>SHIFT</code> + <code>TAB</code>
             </td>
             <td>Un-indent</td>
         </tr>
         <tr>
-            <td><code>Tab</code>
-                <br>Mac: <br><code>Tab</code>
+            <td><code>TAB</code>
             </td>
             <td>Indent</td>
         </tr>
         <tr>
             <td><code>CTRL</code> + <code>[</code>
-                <br>Mac: <br><code>CTRL</code> + <code>[</code>
             </td>
             <td>Block Unindent</td>
         </tr>
         <tr>
             <td><code>CTRL</code> + <code>]</code>
-                <br>Mac: <br><code>CTRL</code> + <code>]</code>
             </td>
             <td>Block indent</td>
         </tr>
@@ -434,19 +426,16 @@ Yes. Here are the available shortcuts.
         </tr>
         <tr>
             <td><code>CTRL</code> + <code>T</code>
-                <br>Mac: <br><code>CTRL</code> + <code>T</code>
             </td>
             <td>Transpose letters</td>
         </tr>
         <tr>
             <td><code>CTRL</code> + <code>U</code>
-                <br>Mac: <br><code>CTRL</code> + <code>U</code>
             </td>
             <td>Uppercase selection</td>
         </tr>
         <tr>
             <td><code>CTRL</code> + <code>SHIFT</code> + <code>U</code>
-                <br>Mac: <br><code>CTRL</code> + <code>SHIFT</code> + <code>U</code>
             </td>
             <td>Downcase selection</td>
         </tr>
