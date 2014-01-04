@@ -79,14 +79,6 @@ Yes. You can use either Codecademy shortcuts or universal shortcuts. Here are th
     </tr>
     <tr>
       <td>
-        <strong>Ctrl + L</strong>
-        <br>
-        Mac: <strong>Cmd + L</strong>
-      </td>
-      <td>Goto line (opens a dialogue).</td>
-    </tr>
-    <tr>
-      <td>
         <strong>Alt + L</strong> or <strong>Ctrl + F1</strong>
         <br>
         Mac: <strong>Cmd + Alt + L</strong> or <strong>Cmd + F1</strong>
