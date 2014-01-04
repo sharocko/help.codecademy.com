@@ -75,7 +75,7 @@ Yes. You can use either Codecademy shortcuts or universal shortcuts. Here are th
         <br>
         Mac: <strong>Cmd + A</strong>
       </td>
-      <td>Selects all text</td>
+      <td>Selects all text.</td>
     </tr>
     <tr>
       <td>
