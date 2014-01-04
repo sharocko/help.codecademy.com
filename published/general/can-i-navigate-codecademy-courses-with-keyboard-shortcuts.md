@@ -44,7 +44,7 @@ Yes. Here are the available shortcuts.
         </tr>
         <tr>
             <td><em>Mac Only Supported</em>
-                <br>Mac: <br><code>CTRL</code> + <code>L</code>
+               <br><code>CTRL</code> + <code>L</code>
             </td>
             <td>Centers selection.</td>
         </tr>
@@ -224,7 +224,7 @@ Yes. Here are the available shortcuts.
         </tr>
         <tr>
             <td><em>Mac Only Supported</em>
-                <br>Mac: <br><code>OPTIONion</code> + <code>PageDown</code>
+                <br><code>OPTIONion</code> + <code>PageDown</code>
             </td>
             <td>Scroll down one page</td>
         </tr>
@@ -241,7 +241,7 @@ Yes. Here are the available shortcuts.
         </tr>
         <tr>
             <td><em>Mac Only Supported</em>
-                <br>Mac: <br><code>OPTIONion</code> + <code>PageUp</code>
+                <br><code>OPTIONion</code> + <code>PageUp</code>
             </td>
             <td>Scroll up one page</td>
         </tr>
@@ -420,7 +420,7 @@ Yes. Here are the available shortcuts.
         </tr>
         <tr>
             <td><em>Mac Only</code>
-                <br>Mac: <br><code>CTRL</code> + <code>O</code>
+                <br><code>CTRL</code> + <code>O</code>
             </td>
             <td>Split current line</td>
         </tr>
