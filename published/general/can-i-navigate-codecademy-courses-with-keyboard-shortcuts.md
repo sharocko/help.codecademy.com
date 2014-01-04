@@ -2,48 +2,73 @@
 title: Can I navigate Codecademy courses with keyboard shortcuts?
 article_id: '1402980'
 ---
-Yes. Here are the available shortcuts.
+Yes. You can use either Codecademy shortcuts or universal shortcuts. Here are the available shortcuts:
 
 <table>
   <thead>
     <tr>
-      <th style="width:190px;">Shortcut Key</th>
+      <th colspan='2'>Codecademy Shortcuts</th>
+    </tr>
+    <tr>
+      <th>Shortcut Key</th>
       <th>Action</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>
-        <strong>Ctrl + Return</strong>
+        <code>Ctrl + Return</code>
         <br>
-        Mac: <strong>Cmd + return</strong>
+        <strong>Mac</strong>: <code>Cmd + return</code>
       </td>
       <td>Submits the code in an exercise.</td>
     </tr>
     <tr>
       <td>
-        <strong>Alt + R</strong>
+        <code>Alt + R</code>
         <br>
-        Mac: <strong>Opt + R</strong>
+        <strong>Mac</strong>: <code>Opt + R</code>
       </td>
       <td>Resets the code in an exercise to its original state.</td>
     </tr>
     <tr>
       <td>
-        <strong>Alt + P</strong>
+        <code>Alt + P</code>
         <br>
-        Mac: <strong>Opt + P</strong>
+        <strong>Mac</strong>: <code>Opt + P</code>
       </td>
       <td>Loads the next exercise. You won't lose any of your code in the current exercise.</td>
     </tr>
     <tr>
       <td>
-        <strong>Alt + O</strong>
+        <code>Alt + O</code>
         <br>
-        Mac: <strong>Opt + O</strong>
+        <strong>Mac</strong>: <code>Opt + O</code>
       </td>
       <td>Loads the previous exercise.</td>
     </tr>
+    <tr>
+      <td>
+        <em>Mac Only Supported</em>
+        <br>
+        <strong>Mac</strong>: <code>Ctrl + L</code>
+      </td>
+      <td>Vertically centers the view on the current selection.</td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <thead>
+    <tr>
+      <th colspan='2'>Universal Shortcuts</th>
+    </tr>
+    <tr>
+      <th>Shortcut Key</th>
+      <th>Action</th>
+    </tr>
+  </thead>
+  <tbody>
     <tr>
       <td>
         <strong>Ctrl + A</strong>
@@ -51,12 +76,6 @@ Yes. Here are the available shortcuts.
         Mac: <strong>Cmd + A</strong>
       </td>
       <td>Selects all text</td>
-    </tr>
-    <tr>
-        <td><em>Mac Only Supported</em>
-            <br>Mac: <strong>Ctrl + L</strong>
-        </td>
-        <td>Centers selection.</td>
     </tr>
     <tr>
       <td>
