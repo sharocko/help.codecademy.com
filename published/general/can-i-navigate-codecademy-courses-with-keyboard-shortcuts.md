@@ -13,7 +13,7 @@ Yes. Here are the available shortcuts.
     </thead>
     <tbody>
         <tr>
-            <td><code>Ctrl</code></code> + <code><code>Return</code>
+            <td><code>Ctrl</code> + <code>Return</code>
                 <br>Mac: <br><code>command</code> + <code>return</code>
             </td>
             <td>Submits the code in an exercise.</td>
