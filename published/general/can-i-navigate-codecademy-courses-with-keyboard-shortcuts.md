@@ -98,9 +98,8 @@ Yes. Here are the available shortcuts.
         </tr>
         <tr>
             <td><code>Insert</code>
-            <br> Mac (pre-2007): <code>Insert</code>
             </td>
-            <td>Activates Insert most. Text is overwritten.</td>
+            <td>Activates Insert mode. Text is overwritten.</td>
         </tr>
         <tr>
             <td><code>Ctrl</code> + <code>Shift</code> + <code>Home</code>
