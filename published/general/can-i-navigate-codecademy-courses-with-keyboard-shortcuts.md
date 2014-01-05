@@ -71,238 +71,238 @@ Yes. You can use either Codecademy shortcuts or universal shortcuts. Here are th
   <tbody>
     <tr>
       <td>
-        <strong>Ctrl + A</strong>
+        <code>Ctrl + A</code>
         <br>
-        Mac: <strong>Cmd + A</strong>
+        <strong>Mac:</strong> <code>Cmd + A</code>
       </td>
       <td>Selects all text.</td>
     </tr>
     <tr>
       <td>
-        <strong>Alt + L</strong> or <strong>Ctrl + F1</strong>
+        <code>Alt + L</code> or <code>Ctrl + F1</code>
         <br>
-        Mac: <strong>Cmd + Alt + L</strong> or <strong>Cmd + F1</strong>
+        <strong>Mac:</strong> <code>Cmd + Alt + L</code> or <code>Cmd + F1</code>
       </td>
-      <td>Folds the active element.</td>
+      <td>Folds selected text.</td>
     </tr>
     <tr>
       <td>
-        <strong>Alt + Shift + L</strong> or <strong>Ctrl + Shift + F1</strong>
+        <code>Alt + Shift + L</code> or <code>Ctrl + Shift + F1</code>
         <br>
-        Mac: <strong>Cmd + Alt + Shift + L</strong> or <strong>Cmd + Shift + F1</strong>
+        <strong>Mac:</strong> <code>Cmd + Alt + Shift + L</code> or <code>Cmd + Shift + F1</code>
       </td>
-      <td>Unfolds the active element.</td>
+      <td>Unfolds selected text.</td>
     </tr>
     <tr>
       <td>
-        <strong>Alt + 0</strong>
+        <code>Alt + 0</code>
         <br>
-        Mac: <strong>Cmd + Opt + 0</strong>
+        <strong>Mac:</strong> <code>Cmd + Opt + 0</code>
       </td>
       <td>Folds all foldable elements.</td>
     </tr>
     <tr>
       <td>
-        <strong>Alt + Shift + 0</strong>
+        <code>Alt + Shift + 0</code>
         <br>
-        Mac: <strong>Cmd + Opt + Shift + 0</strong>
+        <strong>Mac:</strong> <code>Cmd + Opt + Shift + 0</code>
       </td>
       <td>Unfolds all foldable elements.</td>
     </tr>
     <tr>
       <td>
-        <strong>Ctrl + K</strong>
+        <code>Ctrl + K</code>
         <br>
-        Mac: <strong>Cmd + G</strong>
+        <strong>Mac:</strong> <code>Cmd + G</code>
       </td>
       <td>Finds next instance of current selection.</td>
     </tr>
     <tr>
       <td>
-        <strong>Ctrl + Shift + K</strong>
+        <code>Ctrl + Shift + K</code>
         <br>
-        Mac: <strong>Cmd + Shift + G</strong>
+        <strong>Mac:</strong> <code>Cmd + Shift + G</code>
       </td>
       <td>Finds previous instance of current selection.</td>
     </tr>
     <tr>
       <td>
-        <strong>Ctrl + F</strong>
+        <code>Ctrl + F</code>
         <br>
-        Mac: <strong>Cmd + F</strong>
+        <strong>Mac:</strong> <code>Cmd + F</code>
       </td>
       <td>Finds all instances of current selection. This behavior is automatic on selecting text.</td>
     </tr>
     <tr>
       <td>
-        <strong>Insert</strong>
+        <code>Insert</code>
         <br>
-        Mac (pre-2007): <strong>Insert</strong>
+        Mac (pre-2007): <code>Insert</code>
       </td>
       <td>Activates Insert most. Text is overwritten.</td>
     </tr>
     <tr>
       <td>
-        <strong>Ctrl + Shift + Home</strong>
+        <code>Ctrl + Shift + Home</code>
         <br>
-        Mac: <strong>Cmd + Shift + Up</strong>
+        <strong>Mac:</strong> <code>Cmd + Shift + Up</code>
       </td>
       <td>Selects from current location or selection to start.</td>
     </tr>
     <tr>
       <td>
-        <strong>Ctrl + Home</strong>
+        <code>Ctrl + Home</code>
         <br>
-        Mac: <strong>Cmd + Home</strong> or <strong>Cmd + Up</strong>
+        <strong>Mac:</strong> <code>Cmd + Home</code> or <code>Cmd + Up</code>
       </td>
       <td>Go to start of document.</td>
     </tr>
     <tr>
       <td>
-        <strong>Shift + Up</strong>
+        <code>Shift + Up</code>
         <br>
-        Mac: <strong>Shift + Up</strong>
+        <strong>Mac:</strong> <code>Shift + Up</code>
       </td>
       <td>Selects from current location to same location on preceeding line</td>
     </tr>
     <tr>
       <td>
-        <strong>Up</strong>
+        <code>Up</code>
         <br>
-        Mac: <strong>Up</strong> or <strong>Ctrl + P</strong>
+        <strong>Mac:</strong> <code>Up</code> or <code>Ctrl + P</code>
       </td>
       <td>Go up one line</td>
     </tr>
     <tr>
       <td>
-        <strong>Ctrl + Shift + End</strong>
+        <code>Ctrl + Shift + End</code>
         <br>
-        Mac: <strong>Cmd + Shift + Down</strong>
+        <strong>Mac:</strong> <code>Cmd + Shift + Down</code>
       </td>
       <td>Selects from current location to end of document.</td>
     </tr>
     <tr>
       <td>
-        <strong>Ctrl + End</strong>
+        <code>Ctrl + End</code>
         <br>
-        Mac: <strong>Cmd + End</strong> or <strong>Cmd + Down</strong>
+        <strong>Mac:</strong> <code>Cmd + End</code> or <code>Cmd + Down</code>
       </td>
       <td>Goto end of current visual line.</td>
     </tr>
     <tr>
       <td>
-        <strong>Shift + Down</strong>
+        <code>Shift + Down</code>
         <br>
-        Mac: <strong>Shift + Down</strong>
+        <strong>Mac:</strong> <code>Shift + Down</code>
       </td>
       <td>Selects from current location to same location on following line.</td>
     </tr>
     <tr>
       <td>
-        <strong>Down</strong>
+        <code>Down</code>
         <br>
-        Mac: <strong>Down</strong> or <strong>Ctrl + N</strong>
+        <strong>Mac:</strong> <code>Down</code> or <code>Ctrl + N</code>
       </td>
       <td>Go down one line.</td>
     </tr>
     <tr>
       <td>
-        <strong>Ctrl + Shift + Left</strong>
+        <code>Ctrl + Shift + Left</code>
         <br>
-        Mac: <strong>Opt + Shift + Left</strong>
+        <strong>Mac:</strong> <code>Opt + Shift + Left</code>
       </td>
       <td>Selects the word to the left of the cursor</td>
     </tr>
     <tr>
       <td>
-        <strong>Ctrl + Left</strong>
+        <code>Ctrl + Left</code>
         <br>
-        Mac: <strong>Opt + Left</strong>
+        <strong>Mac:</strong> <code>Opt + Left</code>
       </td>
       <td>Go one word to the left</td>
     </tr>
     <tr>
       <td>
-        <strong>Alt + Shift + Left</strong>
+        <code>Alt + Shift + Left</code>
         <br>
-        Mac: <strong>Cmd + Shift + Left</strong>
+        <strong>Mac:</strong> <code>Cmd + Shift + Left</code>
       </td>
       <td>Selects to the start of the current visual line</td>
     </tr>
     <tr>
       <td>
-        <strong>Alt + Left</strong> or <strong>Home</strong>
+        <code>Alt + Left</code> or <code>Home</code>
         <br>
-        Mac: <strong>Cmd + Left</strong> or <strong>Home</strong> or <strong>Ctrl + A</strong>
+        <strong>Mac:</strong> <code>Cmd + Left</code> or <code>Home</code> or <code>Ctrl + A</code>
       </td>
       <td>Go to start of current visual line</td>
     </tr>
     <tr>
       <td>
-        <strong>Shift + Left</strong>
+        <code>Shift + Left</code>
         <br>
-        Mac: <strong>Shift + Left</strong>
+        <strong>Mac:</strong> <code>Shift + Left</code>
       </td>
       <td>Selects text to the left of the cursor</td>
     </tr>
     <tr>
       <td>
-        <strong>Left</strong>
-        <br>Mac: <strong>Left</strong> or <strong>Ctrl + B</strong>
+        <code>Left</code>
+        <br><strong>Mac:</strong> <code>Left</code> or <code>Ctrl + B</code>
       </td>
       <td>Go left</td>
     </tr>
     <tr>
       <td>
-        <strong>Ctrl + Shift + Right</strong>
+        <code>Ctrl + Shift + Right</code>
         <br>
-        Mac: <strong>Opt + Shift + Right</strong>
+        <strong>Mac:</strong> <code>Opt + Shift + Right</code>
       </td>
       <td>Select the word the the right.</td>
     </tr>
     <tr>
       <td>
-        <strong>Ctrl + Right</strong>
+        <code>Ctrl + Right</code>
         <br>
-        Mac: <strong>Opt + Right</strong>
+        <strong>Mac:</strong> <code>Opt + Right</code>
       </td>
       <td>Go one word to the right.</td>
     </tr>
     <tr>
       <td>
-        <strong>Alt + Shift + Right</strong>
+        <code>Alt + Shift + Right</code>
         <br>
-        Mac: <strong>Cmd + Shift + Right</strong>
+        <strong>Mac:</strong> <code>Cmd + Shift + Right</code>
       </td>
       <td>Select to end of the current visual line.</td>
     </tr>
     <tr>
       <td>
-        <strong>Alt + Right</strong> or <strong>End</strong>
+        <code>Alt + Right</code> or <code>End</code>
         <br>
-        Mac: <strong>Cmd + Right</strong> or <strong>End</strong> or <strong>Ctrl + E</strong>
+        <strong>Mac:</strong> <code>Cmd + Right</code> or <code>End</code> or <code>Ctrl + E</code>
       </td>
       <td>Go to end of the current visual line.</td>
     </tr>
     <tr>
       <td>
-        <strong>Shift + Right</strong>
+        <code>Shift + Right</code>
         <br>
-        Mac: <strong>Shift + Right</strong>
+        <strong>Mac:</strong> <code>Shift + Right</code>
       </td>
       <td>Select to the right</td>
     </tr>
     <tr>
       <td>
-        <strong>Right</strong>
+        <code>Right</code>
         <br>
-        Mac: <strong>Right</strong> or <strong>Ctrl + F</strong>
+        <strong>Mac:</strong> <code>Right</code> or <code>Ctrl + F</code>
       </td>
       <td>Go right</td>
     </tr>
     <tr>
       <td>
-        <strong>Shift + PageDown</strong>
+        <code>Shift + PageDown</code>
       </td>
       <td>Selects to bottom of current page</td>
     </tr>
@@ -310,21 +310,21 @@ Yes. You can use either Codecademy shortcuts or universal shortcuts. Here are th
       <td>
         <em>Mac Only Supported</em>
         <br>
-        Mac: <strong>Option + PageDown</strong>
+        <strong>Mac:</strong> <code>Option + PageDown</code>
       </td>
       <td>Scroll down one page</td>
     </tr>
     <tr>
       <td>
-        <strong>PageDown</strong>
+        <code>PageDown</code>
         <br>
-        Mac: <strong>PageDown</strong> or <strong>Ctrl + V</strong>
+        <strong>Mac:</strong> <code>PageDown</code> or <code>Ctrl + V</code>
       </td>
       <td>Go down one page</td>
     </tr>
     <tr>
       <td>
-        <strong>Shift + PageUp</strong>
+        <code>Shift + PageUp</code>
       </td>
       <td>Selects from current location to start of current page.</td>
     </tr>
@@ -332,19 +332,19 @@ Yes. You can use either Codecademy shortcuts or universal shortcuts. Here are th
       <td>
         <em>Mac Only Supported</em>
         <br>
-        Mac: <strong>Option + PageUp</strong>
+        <strong>Mac:</strong> <code>Option + PageUp</code>
       </td>
       <td>Scroll up one page</td>
     </tr>
     <tr>
       <td>
-        <strong>PageUp</strong>
+        <code>PageUp</code>
       </td>
       <td>Go up one page</td>
     </tr>
     <tr>
       <td>
-        <strong>Ctrl + Up</strong>
+        <code>Ctrl + Up</code>
         <br>
         <em>Mac Not Supported</em>
       </td>
@@ -352,7 +352,7 @@ Yes. You can use either Codecademy shortcuts or universal shortcuts. Here are th
     </tr>
     <tr>
       <td>
-        <strong>Ctrl + Down</strong>
+        <code>Ctrl + Down</code>
         <br>
         <em>Mac Not Supported</em>
       </td>
@@ -360,27 +360,27 @@ Yes. You can use either Codecademy shortcuts or universal shortcuts. Here are th
     </tr>
     <tr>
       <td>
-        <strong>Shift + Home</strong>
+        <code>Shift + Home</code>
       </td>
       <td>Select to start of current line</td>
     </tr>
     <tr>
       <td>
-        <strong>Shift + End</strong>
+        <code>Shift + End</code>
       </td>
       <td>Select to end of current line</td>
     </tr>
     <tr>
       <td>
-        <strong>Ctrl + P</strong>
+        <code>Ctrl + P</code>
         <br>
-        Mac: <strong>Ctrl + Shift + P</strong>
+        <strong>Mac:</strong> <code>Ctrl + Shift + P</code>
       </td>
       <td>Jump to matching special character</td>
     </tr>
     <tr>
       <td>
-        <strong>Ctrl + Shift + P</strong>
+        <code>Ctrl + Shift + P</code>
         <br>
         <em>Mac Not Supported</em>
       </td>
@@ -388,217 +388,217 @@ Yes. You can use either Codecademy shortcuts or universal shortcuts. Here are th
     </tr>
     <tr>
       <td>
-        <strong>Ctrl + D</strong>
+        <code>Ctrl + D</code>
         <br>
-        Mac: <strong>Cmd + D</strong>
+        <strong>Mac:</strong> <code>Cmd + D</code>
       </td>
       <td>Remove current line</td>
     </tr>
     <tr>
       <td>
-        <strong>Ctrl + Shift + D</strong>
+        <code>Ctrl + Shift + D</code>
         <br>
-        Mac: <strong>Cmd + Shift + D</strong>
+        <strong>Mac:</strong> <code>Cmd + Shift + D</code>
       </td>
       <td>Duplicate selection or current line</td>
     </tr>
     <tr>
       <td>
-        <strong>Ctrl + Alt + S</strong>
+        <code>Ctrl + Alt + S</code>
         <br>
-        Mac: <strong>Cmd + Alt + S</strong>
+        <strong>Mac:</strong> <code>Cmd + Alt + S</code>
       </td>
       <td>Sort selected lines.</td>
     </tr>
     <tr>
       <td>
-        <strong>Ctrl + /</strong>
+        <code>Ctrl + /</code>
         <br>
-        Mac: <strong>Cmd + /</strong>
+        <strong>Mac:</strong> <code>Cmd + /</code>
       </td>
       <td>Toggle comment.</td>
     </tr>
     <tr>
       <td>
-        <strong>Ctrl + Shift + /</strong>
+        <code>Ctrl + Shift + /</code>
         <br>
-        Mac: <strong>Cmd + Shift + /</strong>
+        <strong>Mac:</strong> <code>Cmd + Shift + /</code>
       </td>
       <td>Toggle block comment</td>
     </tr>
     <tr>
       <td>
-        <strong>Ctrl + Shift + Up</strong>
+        <code>Ctrl + Shift + Up</code>
         <br>
-        Mac: <strong>Alt + Shift + Up</strong>
+        <strong>Mac:</strong> <code>Alt + Shift + Up</code>
       </td>
       <td>Increment number to left of cursor up.</td>
     </tr>
     <tr>
       <td>
-        <strong>Ctrl + Shift + Down</strong>
+        <code>Ctrl + Shift + Down</code>
         <br>
-        Mac: <strong>Alt + Shift + Down</strong>
+        <strong>Mac:</strong> <code>Alt + Shift + Down</code>
       </td>
       <td>Increment number to left of cursor down.</td>
     </tr>
     <tr>
       <td>
-        <strong>Ctrl + Z</strong>
+        <code>Ctrl + Z</code>
         <br>
-        Mac: <strong>Cmd + Z</strong>
+        <strong>Mac:</strong> <code>Cmd + Z</code>
       </td>
       <td>Undo</td>
     </tr>
     <tr>
       <td>
-        <strong>Ctrl + Shift + Z</strong> or <strong>Ctrl + Y</strong>
+        <code>Ctrl + Shift + Z</code> or <code>Ctrl + Y</code>
         <br>
-        Mac: <strong>Cmd + Shift + Z</strong> or <strong>Cmd + Y</strong>
+        <strong>Mac:</strong> <code>Cmd + Shift + Z</code> or <code>Cmd + Y</code>
       </td>
       <td>Redo</td>
     </tr>
     <tr>
       <td>
-        <strong>Alt + Shift + Up</strong>
+        <code>Alt + Shift + Up</code>
         <br>
-        Mac: <strong>Cmd + Opt + Up</strong>
+        <strong>Mac:</strong> <code>Cmd + Opt + Up</code>
       </td>
       <td>Copy current line up</td>
     </tr>
     <tr>
       <td>
-        <strong>Alt + Up</strong>
+        <code>Alt + Up</code>
         <br>
-        Mac: <strong>Opt + Up</strong>
+        <strong>Mac:</strong> <code>Opt + Up</code>
       </td>
       <td>Move current line up</td>
     </tr>
     <tr>
       <td>
-        <strong>Alt + Shift + Down</strong>
+        <code>Alt + Shift + Down</code>
         <br>
-        Mac: <strong>Cmd + Opt + Down</strong>
+        <strong>Mac:</strong> <code>Cmd + Opt + Down</code>
       </td>
       <td>Copy current line down</td>
     </tr>
     <tr>
       <td>
-        <strong>Alt + Down</strong>
+        <code>Alt + Down</code>
         <br>
-        Mac: <strong>Option + Down</strong>
+        <strong>Mac:</strong> <code>Option + Down</code>
       </td>
       <td>Move current line down</td>
     </tr>
     <tr>
       <td>
-        <strong>Delete or Shift + Delete</strong>
+        <code>Delete or Shift + Delete</code>
         <br>
-        Mac: <strong>Delete</strong> or <strong>Ctrl + D</strong> or <strong>Shift + Delete</strong>
+        <strong>Mac:</strong> <code>Delete</code> or <code>Ctrl + D</code> or <code>Shift + Delete</code>
       </td>
       <td>Delete</td>
     </tr>
     <tr>
       <td>
-        <strong>Shift + Backspace</strong> or <strong>Backspace</strong>
+        <code>Shift + Backspace</code> or <code>Backspace</code>
         <br>
-        Mac: <strong>Ctrl + Backspace</strong> or <strong>Shift + Backspace</strong> or <strong>Backspace</strong> or <strong>Ctrl + H</strong>
+        <strong>Mac:</strong> <code>Ctrl + Backspace</code> or <code>Shift + Backspace</code> or <code>Backspace</code> or <code>Ctrl + H</code>
       </td>
       <td>backspace</td>
     </tr>
     <tr>
       <td>
-        <strong>Alt + Backspace</strong>
+        <code>Alt + Backspace</code>
         <br>
-        Mac: <strong>Cmd + Backspace</strong>
+        <strong>Mac:</strong> <code>Cmd + Backspace</code>
       </td>
       <td>Remove to line start</td>
     </tr>
     <tr>
       <td>
-        <strong>Alt + Delete</strong>
+        <code>Alt + Delete</code>
         <br>
-        Mac: <strong>Ctrl + K</strong>
+        <strong>Mac:</strong> <code>Ctrl + K</code>
       </td>
       <td>Remove to line end</td>
     </tr>
     <tr>
       <td>
-        <strong>Ctrl + Backspace</strong>
+        <code>Ctrl + Backspace</code>
         <br>
-        Mac: <strong>Alt + Backspace</strong> or <strong>Ctrl + Alt + Backspace</strong>
+        <strong>Mac:</strong> <code>Alt + Backspace</code> or <code>Ctrl + Alt + Backspace</code>
       </td>
       <td>Remove the word to the left</td>
     </tr>
     <tr>
       <td>
-        <strong>Ctrl + Delete</strong>
+        <code>Ctrl + Delete</code>
         <br>
-        Mac: <strong>Alt + Delete</strong>
+        <strong>Mac:</strong> <code>Alt + Delete</code>
       </td>
       <td>Remove the word to the right</td>
     </tr>
     <tr>
       <td>
-        <strong>Shift + Tab</strong>
+        <code>Shift + Tab</code>
         <br>
-        Mac: <strong>Shift + Tab</strong>
+        <strong>Mac:</strong> <code>Shift + Tab</code>
       </td>
       <td>Un-indent</td>
     </tr>
     <tr>
       <td>
-        <strong>Tab</strong>
+        <code>Tab</code>
         <br>
-        Mac: <strong>Tab</strong>
+        <strong>Mac:</strong> <code>Tab</code>
       </td>
       <td>Indent</td>
     </tr>
     <tr>
       <td>
-        <strong>Ctrl + [</strong>
+        <code>Ctrl + [</code>
         <br>
-        Mac: <strong>Ctrl + [</strong>
+        <strong>Mac:</strong> <code>Ctrl + [</code>
       </td>
       <td>Block Unindent</td>
     </tr>
     <tr>
       <td>
-        <strong>Ctrl + ]</strong>
+        <code>Ctrl + ]</code>
         <br>
-        Mac: <strong>Ctrl + ]</strong>
+        <strong>Mac:</strong> <code>Ctrl + ]</code>
       </td>
       <td>Block indent</td>
     </tr>
     <tr>
       <td>
-        <em>Mac Only</strong>
+        <em>Mac Only</code>
         <br>
-        Mac: <strong>Ctrl + O</strong>
+        <strong>Mac:</strong> <code>Ctrl + O</code>
       </td>
       <td>Split current line</td>
     </tr>
     <tr>
       <td>
-        <strong>Ctrl + T</strong>
+        <code>Ctrl + T</code>
         <br>
-        Mac: <strong>Ctrl + T</strong>
+        <strong>Mac:</strong> <code>Ctrl + T</code>
       </td>
       <td>Transpose letters</td>
     </tr>
     <tr>
       <td>
-        <strong>Ctrl + U</strong>
+        <code>Ctrl + U</code>
         <br>
-        Mac: <strong>Ctrl + U</strong>
+        <strong>Mac:</strong> <code>Ctrl + U</code>
       </td>
       <td>Uppercase selection</td>
     </tr>
     <tr>
       <td>
-        <strong>Ctrl + Shift + U</strong>
+        <code>Ctrl + Shift + U</code>
         <br>
-        Mac: <strong>Ctrl + Shift + U</strong>
+        <strong>Mac:</strong> <code>Ctrl + Shift + U</code>
       </td>
       <td>Downcase selection</td>
     </tr>
