@@ -8,7 +8,7 @@ Yes. You can use either Codecademy shortcuts or universal shortcuts. Here are th
 <br>
 [Click here for Mac Shortcuts](#mac-shortcuts)
 
-# PC Shortcuts
+### PC Shortcuts
 <table>
   <thead>
     <tr>
@@ -22,25 +22,25 @@ Yes. You can use either Codecademy shortcuts or universal shortcuts. Here are th
   <tbody>
     <tr>
       <td>
-        <code>CTRL+ENTER</code>
+        CTRL+ENTER
       </td>
       <td>Submits the code in an exercise.</td>
     </tr>
     <tr>
       <td>
-        <code>ALT+R</code>
+        ALT+R
       </td>
       <td>Resets the code in an exercise to its original state.</td>
     </tr>
     <tr>
       <td>
-        <code>ALT+P</code>
+        ALT+P
       </td>
       <td>Loads the next exercise. You won't lose any of your code in the current exercise.</td>
     </tr>
     <tr>
       <td>
-        <code>ALT+O</code>
+        ALT+O
       </td>
       <td>Loads the previous exercise.</td>
     </tr>
@@ -49,7 +49,7 @@ Yes. You can use either Codecademy shortcuts or universal shortcuts. Here are th
 
 <hr>
 
-# Mac Shortcuts
+### Mac Shortcuts
 <table>
   <thead>
     <tr>
@@ -63,31 +63,31 @@ Yes. You can use either Codecademy shortcuts or universal shortcuts. Here are th
   <tbody>
     <tr>
       <td>
-        <code>&#8984;&#9166;</code>
+        &#8984;&#9166;
       </td>
       <td>Submits the code in an exercise.</td>
     </tr>
     <tr>
       <td>
-        <code>&#8997;R</code>
+        &#8997;R
       </td>
       <td>Resets the code in an exercise to its original state.</td>
     </tr>
     <tr>
       <td>
-        <code>&#8997;P</code>
+        &#8997;P
       </td>
       <td>Loads the next exercise. You won't lose any of your code in the current exercise.</td>
     </tr>
     <tr>
       <td>
-        <code>&#8997;O</code>
+        &#8997;O
       </td>
       <td>Loads the previous exercise.</td>
     </tr>
     <tr>
       <td>
-        <code>&#8963;L</code>
+        &#8963;L
       </td>
       <td>Vertically centers the view on the current selection.</td>
     </tr>
