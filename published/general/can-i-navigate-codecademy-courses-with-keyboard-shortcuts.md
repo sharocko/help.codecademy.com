@@ -2,7 +2,7 @@
 title: Can I navigate Codecademy courses with keyboard shortcuts?
 article_id: '1402980'
 ---
-Yes. You can use either Codecademy shortcuts or universal shortcuts. Here are the available shortcuts:
+Yes. You can use either navigation shortcuts or text editing  shortcuts. Here are the available shortcuts:
 
 [Click here for PC Shortcuts](#pc-shortcuts)
 <br>
@@ -12,7 +12,7 @@ Yes. You can use either Codecademy shortcuts or universal shortcuts. Here are th
 <table>
   <thead>
     <tr>
-      <th colspan='2'>Codecademy Shortcuts</th>
+      <th colspan='2'>Navigation Shortcuts</th>
     </tr>
     <tr>
       <th>Shortcut Key</th>
@@ -42,7 +42,7 @@ Yes. You can use either Codecademy shortcuts or universal shortcuts. Here are th
 <table>
   <thead>
     <tr>
-      <th colspan='2'>Universal Shortcuts</th>
+      <th colspan='2'>Text Editing Shortcuts</th>
     </tr>
     <tr>
       <th>Shortcut Key</th>
@@ -220,7 +220,7 @@ Yes. You can use either Codecademy shortcuts or universal shortcuts. Here are th
 <table>
   <thead>
     <tr>
-      <th colspan='2'>Codecademy Shortcuts</th>
+      <th colspan='2'>Navigation Shortcuts</th>
     </tr>
     <tr>
       <th>Shortcut Key</th>
@@ -254,7 +254,7 @@ Yes. You can use either Codecademy shortcuts or universal shortcuts. Here are th
 <table>
   <thead>
     <tr>
-      <th colspan='2'>Universal Shortcuts</th>
+      <th colspan='2'>Text Editing Shortcuts</th>
     </tr>
     <tr>
       <th>Shortcut Key</th>
@@ -287,7 +287,7 @@ Yes. You can use either Codecademy shortcuts or universal shortcuts. Here are th
       <td>Finds previous instance of current text selection.</td>
     </tr>
     <tr>
-      <td>Insert (pre-2007 models)</td>
+      <td>Insert</td>
       <td>Toggles insert mode. Text is overwritten.</td>
     </tr>
     <tr>
