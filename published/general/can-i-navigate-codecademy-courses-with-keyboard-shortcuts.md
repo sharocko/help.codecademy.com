@@ -22,25 +22,25 @@ Yes. You can use either Codecademy shortcuts or universal shortcuts. Here are th
   <tbody>
     <tr>
       <td>
-        CTRL+ENTER
+        Ctrl + Enter
       </td>
       <td>Submits the code in an exercise.</td>
     </tr>
     <tr>
       <td>
-        ALT+R
+        Alt + R
       </td>
       <td>Resets the code in an exercise to its original state.</td>
     </tr>
     <tr>
       <td>
-        ALT+P
+        Alt + P
       </td>
       <td>Loads the next exercise. You won't lose any of your code in the current exercise.</td>
     </tr>
     <tr>
       <td>
-        ALT+O
+        Alt + O
       </td>
       <td>Loads the previous exercise.</td>
     </tr>
@@ -50,44 +50,6 @@ Yes. You can use either Codecademy shortcuts or universal shortcuts. Here are th
 <hr>
 
 ### Mac Shortcuts
-
-<table>
-  <thead>
-    <tr>
-      <th colspan='2'>Symbol Key</th>
-    </tr>
-    <tr>
-      <th>Symbol</th>
-      <th>Key</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>&#8984;</td>
-      <td>Command</td>
-    </tr>
-    <tr>
-      <td>&#8963;</td>
-      <td>Control</td>
-    </tr>
-    <tr>
-      <td>&#9003;</td>
-      <td>Delete</td>
-    </tr>
-    <tr>
-      <td>&#8997;</td>
-      <td>Option/ALT</td>
-    </tr>
-    <tr>
-      <td>&#9166;</td>
-      <td>Return</td>
-    </tr>
-    <tr>
-      <td>&#8679;</td>
-      <td>Shift</td>
-    </tr>
-  </tbody>
-</table>
 
 <table>
   <thead>
@@ -102,31 +64,31 @@ Yes. You can use either Codecademy shortcuts or universal shortcuts. Here are th
   <tbody>
     <tr>
       <td>
-        &#8984;&#9166;
+        Cmd + Return
       </td>
       <td>Submits the code in an exercise.</td>
     </tr>
     <tr>
       <td>
-        &#8997;R
+        Opt + R
       </td>
       <td>Resets the code in an exercise to its original state.</td>
     </tr>
     <tr>
       <td>
-        &#8997;P
+        Opt + P
       </td>
       <td>Loads the next exercise. You won't lose any of your code in the current exercise.</td>
     </tr>
     <tr>
       <td>
-        &#8997;O
+        Opt + O
       </td>
       <td>Loads the previous exercise.</td>
     </tr>
     <tr>
       <td>
-        &#8963;L
+        Ctrl + L
       </td>
       <td>Vertically centers the view on the current selection.</td>
     </tr>
