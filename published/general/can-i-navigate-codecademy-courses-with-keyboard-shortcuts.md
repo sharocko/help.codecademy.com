@@ -54,11 +54,11 @@ Yes. You can use either Codecademy shortcuts or universal shortcuts. Here are th
 <table>
   <thead>
     <tr>
-      <td colspan='2'>Symbol Key</td>
+      <th colspan='2'>Symbol Key</th>
     </tr>
     <tr>
-      <td>Symbol</td>
-      <td>Key</td>
+      <th>Symbol</th>
+      <th>Key</th>
     </tr>
   </thead>
   <tbody>
