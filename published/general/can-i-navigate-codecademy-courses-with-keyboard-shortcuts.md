@@ -135,12 +135,80 @@ Yes. You can use either Codecademy shortcuts or universal shortcuts. Here are th
       <td>Select text between matching special characters.</td>
     </tr>
     <tr>
+      <td>Alt + Backspace</td>
+      <td>Delete from cursor to beginning of the line.</td>
+    </tr>
+    <tr>
+      <td>Alt + Delete</td>
+      <td>Delete from cursor to end of the line.</td>
+    </tr>
+    <tr>
+      <td>Ctrl + Backspace</td>
+      <td>Remove the word to the left of the cursor.</td>
+    </tr>
+    <tr>
+      <td>Ctrl + Delete</td>
+      <td>Remove the word to the right of the cursor.</td>
+    </tr>
+    <tr>
       <td>Ctrl + D</td>
       <td>Remove current line.</td>
     </tr>
     <tr>
       <td>Ctrl + Shift + D</td>
       <td>Duplicate selection or current line.</td>
+    </tr>
+    <tr>
+      <td>Ctrl + /</td>
+      <td>Toggle comment.</td>
+    </tr>
+    <tr>
+      <td>Ctrl + Shift + /</td>
+      <td>Toggle block comment.</td>
+    </tr>
+    <tr>
+      <td>Alt + Up</td>
+      <td>Move current line up.</td>
+    </tr>
+    <tr>
+      <td>Alt + Down</td>
+      <td>Move current line down.</td>
+    </tr>
+    <tr>
+      <td>Alt + Shift + Up</td>
+      <td>Copy current line up.</td>
+    </tr>
+    <tr>
+      <td>Alt + Shift + Down</td>
+      <td>Copy current line down.</td>
+    </tr>
+    <tr>
+      <td>Ctrl + [</td>
+      <td>Unindent selection or current line.</td>
+    </tr>
+    <tr>
+      <td>Ctrl + ]</td>
+      <td>Indent selection or current line.</td>
+    </tr>
+    <tr>
+      <td>Ctrl + Alt + S</td>
+      <td>Sort selected lines.</td>
+    </tr>
+    <tr>
+      <td>Ctrl + U</td>
+      <td>Transform selection to uppercase.</td>
+    </tr>
+    <tr>
+      <td>Ctrl + Shift + U</td>
+      <td>Transform selection to lowercase.</td>
+    </tr>
+    <tr>
+      <td>Ctrl + Shift + Up</td>
+      <td>Increment number to left of cursor up.</td>
+    </tr>
+    <tr>
+      <td>Ctrl + Shift + Down</td>
+      <td>Increment number to left of cursor down.</td>
     </tr>
   </tbody>
 </table>
@@ -275,12 +343,84 @@ Yes. You can use either Codecademy shortcuts or universal shortcuts. Here are th
       <td>Jump to the matching special character.</td>
     </tr>
     <tr>
+      <td>Cmd + Backspace</td>
+      <td>Delete from cursor to beginning of the line.</td>
+    </tr>
+    <tr>
+      <td>Ctrl + K</td>
+      <td>Delete from cursor to end of the line.</td>
+    </tr>
+    <tr>
+      <td>Alt + Backspace<br>Ctrl + Alt + Backspace</td>
+      <td>Remove the word to the left of the cursor.</td>
+    </tr>
+    <tr>
+      <td>Alt + Delete</td>
+      <td>Remove the word to the right of the cursor.</td>
+    </tr>
+    <tr>
       <td>Cmd + D</td>
       <td>Remove current line.</td>
     </tr>
     <tr>
       <td>Cmd + Shift + D</td>
       <td>Duplicate selection or current line.</td>
+    </tr>
+    <tr>
+      <td>Cmd + /</td>
+      <td>Toggle comment.</td>
+    </tr>
+    <tr>
+      <td>Cmd + Shift + /</td>
+      <td>Toggle block comment.</td>
+    </tr>
+    <tr>
+      <td>Opt + Up</td>
+      <td>Move current line up.</td>
+    </tr>
+    <tr>
+      <td>Opt + Down</td>
+      <td>Move current line down.</td>
+    </tr>
+    <tr>
+      <td>Cmd + Opt + Up</td>
+      <td>Copy current line up.</td>
+    </tr>
+    <tr>
+      <td>Cmd + Opt + Down</td>
+      <td>Copy current line down.</td>
+    </tr>
+    <tr>
+      <td>Ctrl + [</td>
+      <td>Unindent selection or current line.</td>
+    </tr>
+    <tr>
+      <td>Ctrl + ]</td>
+      <td>Indent selection or current line.</td>
+    </tr>
+    <tr>
+      <td>Cmd + Alt + S</td>
+      <td>Sort selected lines.</td>
+    </tr>
+    <tr>
+      <td>Ctrl + U</td>
+      <td>Transform selection to uppercase.</td>
+    </tr>
+    <tr>
+      <td>Ctrl + Shift + U</td>
+      <td>Transform selection to lowercase.</td>
+    </tr>
+    <tr>
+      <td>Alt + Shift + Up</td>
+      <td>Increment number to left of cursor up.</td>
+    </tr>
+    <tr>
+      <td>Alt + Shift + Down</td>
+      <td>Increment number to left of cursor down.</td>
+    </tr>
+    <tr>
+      <td>Ctrl + O</td>
+      <td>Split current line into two lines.</td>
     </tr>
   </tbody>
 </table>
