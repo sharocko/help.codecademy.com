@@ -50,6 +50,45 @@ Yes. You can use either Codecademy shortcuts or universal shortcuts. Here are th
 <hr>
 
 ### Mac Shortcuts
+
+<table>
+  <thead>
+    <tr>
+      <td colspan='2'>Symbol Key</td>
+    </tr>
+    <tr>
+      <td>Symbol</td>
+      <td>Key</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>&#8984;</td>
+      <td>Command</td>
+    </tr>
+    <tr>
+      <td>&#8963;</td>
+      <td>Control</td>
+    </tr>
+    <tr>
+      <td>&#9003;</td>
+      <td>Delete</td>
+    </tr>
+    <tr>
+      <td>&#8997;</td>
+      <td>Option/ALT</td>
+    </tr>
+    <tr>
+      <td>&#9166;</td>
+      <td>Return</td>
+    </tr>
+    <tr>
+      <td>&#8679;</td>
+      <td>Shift</td>
+    </tr>
+  </tbody>
+</table>
+
 <table>
   <thead>
     <tr>
