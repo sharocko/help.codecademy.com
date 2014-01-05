@@ -5,6 +5,7 @@ article_id: '1402980'
 Yes. You can use either Codecademy shortcuts or universal shortcuts. Here are the available shortcuts:
 
 [Click here for PC Shortcuts](#pc-shortcuts)
+<br>
 [Click here for Mac Shortcuts](#mac-shortcuts)
 
 # PC Shortcuts
