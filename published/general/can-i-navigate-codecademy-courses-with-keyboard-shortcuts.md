@@ -9,12 +9,12 @@ Yes. You can use either navigation shortcuts or text editing  shortcuts. Here ar
 
 <h3 id="pc-shortcuts">PC Shortcuts</h3>
 
-#### Navigation shortcuts
+<h4 style="margin: 0;">Navigation shortcuts</h4>
 
 <table>
   <thead>
     <tr>
-      <th>Shortcut Key</th>
+      <th style="width: 190px;">Shortcut Key</th>
       <th>Action</th>
     </tr>
   </thead>
@@ -39,12 +39,12 @@ Yes. You can use either navigation shortcuts or text editing  shortcuts. Here ar
 </table>
 
 
-#### Text editing shortcuts
+<h4 style="margin: 20px 0 0 0;">Text editing shortcuts</h4>
 
 <table>
   <thead>
     <tr>
-      <th>Shortcut Key</th>
+      <th style="width: 190px;">Shortcut Key</th>
       <th>Action</th>
     </tr>
   </thead>
@@ -212,14 +212,14 @@ Yes. You can use either navigation shortcuts or text editing  shortcuts. Here ar
   </tbody>
 </table>
 
-<h3 id="mac-shortcuts">Mac Shortcuts</h3>
+<h3 id="mac-shortcuts" style="margin-top: 20px;">Mac Shortcuts</h3>
 
-#### Navigation shortcuts
+<h4 style="margin: 20px 0 0 0;">Navigation shortcuts</h4>
 
 <table>
   <thead>
     <tr>
-      <th>Shortcut Key</th>
+      <th style="width: 190px;">Shortcut Key</th>
       <th>Action</th>
     </tr>
   </thead>
@@ -247,12 +247,12 @@ Yes. You can use either navigation shortcuts or text editing  shortcuts. Here ar
   </tbody>
 </table>
 
-#### Text editing shortcuts
+<h4 style="margin: 20px 0 0 0;">Text editing shortcuts</h4>
 
 <table>
   <thead>
     <tr>
-      <th>Shortcut Key</th>
+      <th style="width: 190px;">Shortcut Key</th>
       <th>Action</th>
     </tr>
   </thead>
