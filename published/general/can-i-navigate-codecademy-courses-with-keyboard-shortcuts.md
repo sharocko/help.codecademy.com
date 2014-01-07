@@ -5,15 +5,14 @@ article_id: '1402980'
 Yes. You can use either navigation shortcuts or text editing  shortcuts. Here are the available shortcuts:
 
 [Click here for PC Shortcuts](#pc-shortcuts)
-<br>
 [Click here for Mac Shortcuts](#mac-shortcuts)
 
-### PC Shortcuts
+<h3 id="pc-shortcuts">PC Shortcuts</h3>
+
+#### Navigation shortcuts
+
 <table>
   <thead>
-    <tr>
-      <th colspan='2'>Navigation Shortcuts</th>
-    </tr>
     <tr>
       <th>Shortcut Key</th>
       <th>Action</th>
@@ -39,11 +38,11 @@ Yes. You can use either navigation shortcuts or text editing  shortcuts. Here ar
   </tbody>
 </table>
 
+
+#### Text editing shortcuts
+
 <table>
   <thead>
-    <tr>
-      <th colspan='2'>Text Editing Shortcuts</th>
-    </tr>
     <tr>
       <th>Shortcut Key</th>
       <th>Action</th>
@@ -213,15 +212,12 @@ Yes. You can use either navigation shortcuts or text editing  shortcuts. Here ar
   </tbody>
 </table>
 
-<hr>
+<h3 id="mac-shortcuts">Mac Shortcuts</h3>
 
-### Mac Shortcuts
+#### Navigation shortcuts
 
 <table>
   <thead>
-    <tr>
-      <th colspan='2'>Navigation Shortcuts</th>
-    </tr>
     <tr>
       <th>Shortcut Key</th>
       <th>Action</th>
@@ -251,11 +247,10 @@ Yes. You can use either navigation shortcuts or text editing  shortcuts. Here ar
   </tbody>
 </table>
 
+#### Text editing shortcuts
+
 <table>
   <thead>
-    <tr>
-      <th colspan='2'>Text Editing Shortcuts</th>
-    </tr>
     <tr>
       <th>Shortcut Key</th>
       <th>Action</th>
