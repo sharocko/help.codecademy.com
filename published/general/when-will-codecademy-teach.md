@@ -1,5 +1,5 @@
 ---
-title: When will Codecademy teach [insert course here]?
+title: When will Codecademy teach [insert language/course here]?
 article_id: '1398978'
 ---
 Currently, Codecademy offers courses for HTML & CSS, JavaScript, jQuery, PHP, Python, and Ruby.
