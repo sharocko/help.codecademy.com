@@ -1,4 +1,5 @@
-How are points calculated?
+**How are points calculated?**
+
 You will earn one point per exercise on Codecademy; if you complete 10 exercises, then you will receive 10 points. The 'points today' tally shows all the points you've earned in one day, based on your local timezone.
 
 In addition, as you earn points, you will be awarded Exercise Badges, which will show up on the Achievements page of your User Profile. Presently, they come in seven denominations, as shown below.
