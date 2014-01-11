@@ -1,8 +1,8 @@
 ---
-title: Codecademy is in a foreign language!
+title: Codecademy is in a foreign language. How can I change it to my language?
 ---
 
-Sorry about that. To fix this, go to the bottom right of the homepage. You should see a box with the current language of the page:
+Sorry about that. You can change the language by, go to the bottom right of the homepage. You should see a box with the current language of the page:
 
 ![Language Dropdown](https://raw.github.com/RyzacInc/help.codecademy.com/master/published/_assets/_img/codecademy-is-in-a-foreign-language.png)
 
