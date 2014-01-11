@@ -1,6 +1,6 @@
 # help.codecademy.com
 
-The Codecademy Help Center is a collection of answers to frequently asked questions about Codecademy's products. 
+The Codecademy Help Center is a collection of answers to frequently asked questions about Codecademy's products. Please read the [wiki](https://github.com/RyzacInc/help.codecademy.com/wiki) for more information about contributing to this repository.
 
 ## Directory structure
 
