@@ -5,7 +5,7 @@ You will earn one point per exercise on Codecademy; if you complete 10 exercises
 
 In addition, as you earn points, you will be awarded Exercise Badges, which will show up on the **Achievements** page of your **User Profile**. Presently, they come in eight denominations, as shown below.
 
-![Exercise Badges](http://binarytutor.x10.mx/ExerciseBadges.gif)
+![Exercise Badges](http://binarytutor.x10.mx/ExerciseBadges-1.gif)
 
 The "December 29, 2013" will be changed to the actual date you earned the badge.
 
