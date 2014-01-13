@@ -1,4 +1,7 @@
 ---
+title: Codecademy is in a foreign language. How can I change it to my language?
+article_id: '1414057'
+------
 title: "Codecademy is in a foreign language. How can I change it to my language?"
 ---
 
