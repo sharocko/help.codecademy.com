@@ -1,6 +1,5 @@
 ---
 title: My browser crashes when I submit my code.
-published: true
 ---
 
 It sounds like there is an infinite loop in your code. An infinite loop will run until your browser gives up waiting for it to finish. 
