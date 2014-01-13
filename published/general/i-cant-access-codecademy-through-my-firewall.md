@@ -1,5 +1,6 @@
 ---
 title: I can't access Codecademy through my firewall.
+article_id: '1414059'
 ---
 
 The network you use at work or school may have a firewall or a proxy in place for security reasons. A side effect of this is that you have limited access to Codecademy. You will be able to visit Codecademy but not everything works properly. You may also run into this if you are using Wi-Fi in places like cafes and libraries. If you find that you have no trouble accessing Codecademy from home but when you are away you find the lessons won't load or submit as expected then this could be the problem.
