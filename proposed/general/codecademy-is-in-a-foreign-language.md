@@ -1,9 +1,8 @@
 ---
 title: "Codecademy is in a foreign language. How can I change it to my language?"
-published: true
 ---
 
-You can change the language by following these steps
+To change the language:
 
   1. Go to the bottom right of the homepage.
   2. Locate the dropdown menu with the current language of the page. (See image)
