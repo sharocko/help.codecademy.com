@@ -5,7 +5,7 @@ title: Troubleshooting Guide
 There are a number of things you can try if you are having trouble loading, viewing, or submitting exercises. 
 
 #### Reload the web page
-This takes care of a majority of problems
+This takes care of a majority of problems.
 
 #### Check your Internet connection.
 We recommend that you have a reasonably fast connection to the internet. Any broadband connection, like DSL or cable, should be sufficient. 
