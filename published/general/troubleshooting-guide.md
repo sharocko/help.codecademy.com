@@ -1,5 +1,6 @@
 ---
 title: Troubleshooting Guide
+article_id: '1417665'
 ---
 
 There are a number of things you can try if you are having trouble loading, viewing, or submitting exercises. 
