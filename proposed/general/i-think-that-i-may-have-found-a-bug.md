@@ -9,7 +9,7 @@ title: I think that I may have found a non-exercise bug.
 
 **Definitely not an exercise bug. How do I report it?**  
   
-  1. To eliminate any web browser issues, follow the suggestions in our [Troubleshooting Guide](#).
+  1. To eliminate any web browser issues, follow the suggestions in our [Troubleshooting Guide](http://help.codecademy.com/customer/portal/articles/1417665-troubleshooting-guide).
   2. Visit the [Site Bugs](http://www.codecademy.com/groups/help-and-bug-reporting) group to see if the bug has already been reported.
   3. Read "[How to write a good bug report?](http://www.codecademy.com/groups/help-and-bug-reporting/discussions/5148f09f5194517fff0002da)".
   4. Use the **[+ Start a Discussion](http://www.codecademy.com/groups/help-and-bug-reporting)** button to report your bug.
