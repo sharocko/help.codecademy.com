@@ -1,5 +1,6 @@
 ---
 title: How do I format code in my posts?
+article_id: '1421289'
 ---
 
 Forum/Group posts are parsed with [limited Markdown](http://daringfireball.net/projects/markdown/). Markdown enables easy formatting of code in posts. 
