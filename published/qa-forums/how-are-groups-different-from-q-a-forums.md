@@ -1,6 +1,5 @@
 ---
 title: How are groups different from Q&A Forums?
-article_id: '1400760'
 ---
 In Q&A Forums, you can ask questions about specific exercises. Each exercise section is linked to its own Q&A Forum.
 
