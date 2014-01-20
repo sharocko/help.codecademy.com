@@ -14,11 +14,11 @@ We recommend that you have a reasonably fast connection to the internet. Any bro
 If you are at work or school or using a shared wireless network, there may be a firewall or proxy that is interfering with your connection to Codecademy. You can [read more about that here.](http://help.codecademy.com/customer/portal/articles/1414059-i-can-t-access-codecademy-through-my-firewall-)
 
 #### Check your web browser.
-- **Codecademy works best on an up-to-date browser**. Please use http://browsehappy.com/ to improve your experience. We recommend Google Chrome or Mozilla Firefox. Trying your lesson in a different browser is a good trouble shooting strategy.
+- **Codecademy works best on an up-to-date browser**. Please use http://browsehappy.com/ to improve your experience. We recommend Google Chrome or Mozilla Firefox. Trying your lesson in a different browser is a good troubleshooting strategy.
 - **Check that all of your plugins are up-to-date too**.  Chrome, Firefox and Safari users can [use this site](http://www.mozilla.org/en-US/plugincheck/) to check the status of their plugins. You don't need to have Flash installed to use Codecademy.
 - **Check your browser's  extensions**. Some extensions, like ad blockers and pop-up blockers, can affect your activities on Codecademy. Try disabling them one at a time. Once you find out which one is interfering, then you may be able to configure it to ignore Codecademy. 
 - **Clear your browser's cache** and reload the web page. Instructions for clearing your cache:  [Chrome](https://support.google.com/chrome/answer/95582) / [Firefox](https://support.mozilla.org/en-US/kb/how-clear-firefox-cache)
-- **Check your zoom level**. If you have zoomed in or out on your browser, then you may see glitches in some exercises. To get back to 100%, press `Ctrl+0` (PC) or `Cmd+0` (Mac).
+- **Check your zoom level**. If you have zoomed in or out on your browser, then you may see glitches in some exercises. To get back to 100&#37;, press `Ctrl+0` (PC) or `Cmd+0` (Mac).
 - **Tablets and mobile phones** are not fully supported yet, but you should be able to complete most lessons on a recent, full-featured mobile browser running on iOS or Android.
 
 #### Tried all that and still not working?
