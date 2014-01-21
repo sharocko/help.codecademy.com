@@ -1,17 +1,7 @@
 ---
-title: I think that I may have found a non-exercise bug.
+title: How do I report a bug?
 ---
 
-**First confirm that the bug is not an exercise bug.**
- 
-  1. Check the **Q&A Forums**, look for the link in the bottom left of each lesson. This will help you determine if the bug is in your code.
-  2. Check the [Buggy Exercises](http://www.codecademy.com/groups/buggy-exercises) group to see if the bug has already been reported as an **exercise** bug.
-
-**Definitely not an exercise bug. How do I report it?**  
-  
-  1. To eliminate any web browser issues, follow the suggestions in our [Troubleshooting Guide](http://help.codecademy.com/customer/portal/articles/1417665-troubleshooting-guide).
-  2. Visit the [Site Bugs](http://www.codecademy.com/groups/help-and-bug-reporting) group to see if the bug has already been reported.
-  3. Read "[How to write a good bug report?](http://www.codecademy.com/groups/help-and-bug-reporting/discussions/5148f09f5194517fff0002da)".
-  4. Use the **[+ Start a Discussion](http://www.codecademy.com/groups/help-and-bug-reporting)** button to report your bug.
+Before submitting a bug report, please read our [Troubleshooting Guide](http://help.codecademy.com/customer/portal/articles/1417665-troubleshooting-guide). If those tips don't help resolve the issue, [let us know here](http://www.codecademy.com/groups/help-and-bug-reporting).
 
 Thank you for taking the time to help us improve Codecademy!
