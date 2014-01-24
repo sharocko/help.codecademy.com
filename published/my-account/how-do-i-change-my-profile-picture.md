@@ -1,5 +1,6 @@
 ---
 title: How do I change my profile picture?
+article_id: '1426497'
 ---
 To change your profile picture:
 
