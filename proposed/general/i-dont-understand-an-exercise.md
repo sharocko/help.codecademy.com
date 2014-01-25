@@ -1,8 +1,8 @@
 ---
-title: I don't understand a lesson. What should I do?
+title: I don't understand an exercise. What should I do?
 ---
 
-Every lesson on Codecademy has its own individual Q&A Forum where you can ask and answer questions about that lesson. At the bottom of the editor for each lesson is a link called **Q&A Forum**. Click the link to enter the forum. 
+Every exercise on Codecademy has its own individual Q&A Forum where you can ask and answer questions about that exercise. At the bottom of the editor for each exercise is a link called **Q&A Forum**. Click the link to enter the forum. 
 
 ![Link to the Q&A Forum](https://raw.github.com/RyzacInc/help.codecademy.com/master/proposed/_assets/_img/i-dont-understand-a-lesson.png)
 
