@@ -1,5 +1,6 @@
 ---
 title: I don't understand an exercise. What should I do?
+article_id: '1427644'
 ---
 
 Every exercise on Codecademy has its own individual Q&A Forum where you can ask and answer questions about that exercise. At the bottom of the editor for each exercise is a link called **Q&A Forum**. Click the link to enter the forum. 
