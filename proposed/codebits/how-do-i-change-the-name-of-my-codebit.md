@@ -1,6 +1,5 @@
 ---
 title: "How do I change the name of my Codebit?"
-published: false
 ---
 
 To change the name of a Codebit:
