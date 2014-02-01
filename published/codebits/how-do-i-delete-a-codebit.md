@@ -1,5 +1,6 @@
 ---
 title: How do I delete a Codebit?
+article_id: '1435486'
 ---
 
 To permanently delete a Codebit:
