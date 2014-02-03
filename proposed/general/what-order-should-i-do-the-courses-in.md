@@ -1,8 +1,14 @@
 ---
 title: What order should I do the courses in?
 ---
-Check out [this great article](http://www.codecademy.com/blog/86-what-language-do-you-need-to-know) on our blog for an in-depth view of what tools you'll need for what projects.
+Start by reading [our blog post](http://www.codecademy.com/blog/86-what-language-do-you-need-to-know) to see how each language can be used.
 
-For more directed learning, check out one of our goals ([Sun Earth and Code](http://www.codecademy.com/goals/web-beginner-en-ymqg0), [About You](http://www.codecademy.com/goals/web-beginner-en-3pc6w), [Animate Your Name](http://www.codecademy.com/goals/animate-your-name)) to help guide you to learn the tools you'll need to make these projects.
+Next, dive deeper into a specific language. Check out the [Learn page](http://www.codecademy.com/learn) to see the available tracks and languages.
 
-If neither of these options appeal, check out the [Learn page](http://www.codecademy.com/learn) to learn more about the available tracks and languages.
+Finally, try out one of these goals to explore how to apply these languages to build a real project:
+  * [Sun Earth and Code](http://www.codecademy.com/goals/web-beginner-en-ymqg0)
+  * [About You](http://www.codecademy.com/goals/web-beginner-en-3pc6w)
+  * [Animate Your Name](http://www.codecademy.com/goals/animate-your-name)
+
+
+
