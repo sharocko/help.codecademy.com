@@ -10,4 +10,4 @@ To permanently delete a Codebit:
 3. Click on the gear icon that appears.
 4. Choose **Delete**.
 
-![gear showing delete option](https://raw.github.com/AlbionsRefuge/help.codecademy.com/how-do-i-delete-a-codebit/proposed/_assets/_img/how-do-i-delete-a-codebit.png)
+![gear showing delete option](https://raw.github.com/RyzacInc/help.codecademy.com/master/published/_assets/_img/how-do-i-delete-a-codebit.png)
