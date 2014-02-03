@@ -1,4 +1,7 @@
 ---
+title: How do I change the name of my Codebit?
+article_id: '1436427'
+------
 title: "How do I change the name of my Codebit?"
 ---
 
