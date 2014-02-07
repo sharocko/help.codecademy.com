@@ -1,5 +1,6 @@
 ---
 title: How do I create a new Codebit?
+article_id: '1442282'
 ---
 
 To create a new Codebit:
