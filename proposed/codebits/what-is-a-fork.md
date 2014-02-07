@@ -11,4 +11,4 @@ To make a fork of a Codebit:
 3. Click on the **fork** icon that appears.
 4. Click on the blue **Fork** button.
 
-![fork option](https://raw.github.com/RyzacInc/help.codecademy.com/AlbionsRefuge/proposed/_assets/_img/what-is-a-fork.png)
+![fork option](https://raw.github.com/AlbionsRefuge/help.codecademy.com/what-is-a-fork/proposed/_assets/_img/what-is-a-fork.png)
