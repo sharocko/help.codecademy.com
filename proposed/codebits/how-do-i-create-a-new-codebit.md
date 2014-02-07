@@ -8,4 +8,4 @@ To create a new Codebit:
 2. Scroll down to the **Codebits you're building** section.
 3. Click on the **+ Create New** button.
 
-If you don't see the **Codebits you're building** section that means you haven't yet completed one of the Codebit projects from the [Learn](http://www.codecademy.com/learn) page.
+If you don't see the **Codebits you're building** section, that means you haven't yet completed one of the Codebit projects from the [Learn](http://www.codecademy.com/learn) page.
