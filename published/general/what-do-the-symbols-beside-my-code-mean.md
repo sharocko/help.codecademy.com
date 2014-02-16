@@ -1,5 +1,6 @@
 ---
 title: What do the symbols beside my code mean?
+article_id: '1450849'
 ---
 Symbols to the left of the line numbers alert you that something might be wrong with your code.
 
