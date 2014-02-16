@@ -1,10 +1,9 @@
 ---
 title: What do the symbols beside my code mean?
 ---
-
 Symbols to the left of the line numbers alert you that something might be wrong with your code.
 
-![alert symbols](https://raw.github.com/AlbionsRefuge/help.codecademy.com/what-do-the-symbols-mean/proposed/_assets/_img/what-do-the-symbols-beside-my-code-mean.png)
+![alert symbols](https://raw.github.com/RyzacInc/help.codecademy.com/master/published/_assets/_img/what-do-the-symbols-beside-my-code-mean.png)
 
 
 - A red shape with an X indicates an error. Your code will not be able to run.
